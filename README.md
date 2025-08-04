@@ -1,1 +1,1 @@
-# SocialAi
+# socialai
